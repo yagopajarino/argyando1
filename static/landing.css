@@ -98,7 +98,8 @@ li {
     flex-wrap: wrap;
     align-items: stretch;
     align-content: center;
-    justify-content: space-between;
+    justify-content: center;
+    align-content: center;
     width: 100%;
 }
 
