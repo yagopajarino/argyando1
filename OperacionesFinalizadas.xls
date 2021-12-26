@@ -1,0 +1,3696 @@
+
+
+<link href="/Content/IOLV6Screens?v=pJcTHdpG0JshnYqemCLmLQRFH6t8wjqFtYivT6ar22A1" rel="stylesheet"/>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Operaciones Finalizadas</title>
+</head>
+<body>
+
+    <table border="1" cellpadding="0" cellspacing="0">
+        <tr>
+            <td colspan="16">Operaciones finalizadas en el periodo 12/7/2021 hasta 27/12/2021 </td>
+        </tr>
+        <tr>
+            <td>Fecha Transacci&oacute;n</td>
+            <td>Fecha Liquidaci&oacute;n</td>
+            <td>Boleto</td>
+            <td>Mercado</td>
+            <td>Tipo Transacci&oacute;n</td>
+            <td>Numero de Cuenta</td>
+            <td>Descripci&oacute;n</td>
+            <td>Especie</td>
+            <td>Simbolo</td>
+            <td>Cantidad</td>
+            <td>Moneda</td>
+            <td>Precio Ponderado</td>
+            <td>Monto</td>
+            <td>Comisi&oacute;n y Derecho de Mercado</td>
+            <td>Iva Impuesto</td>
+            <td>Total</td>
+        </tr>
+
+
+                <tr>
+                    <td>12/7/2021 11:54:59</td>
+                    <td>14/7/2021</td>
+                    <td>2868518</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>202,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>4,89</td>
+                    <td>987,78</td>
+                    <td>5,73</td>
+                    <td>1,21</td>
+                    <td>994,72</td>
+                </tr>
+                <tr>
+                    <td>12/7/2021 14:59:52</td>
+                    <td>14/7/2021</td>
+                    <td>2879453</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>202,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>4,88</td>
+                    <td>985,76</td>
+                    <td>0,79</td>
+                    <td>0,17</td>
+                    <td>984,80</td>
+                </tr>
+                <tr>
+                    <td>13/7/2021 15:24:35</td>
+                    <td>15/7/2021</td>
+                    <td>2907689</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transener</td>
+                    <td>849</td>
+                    <td>TRAN</td>
+                    <td>99,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>32,55</td>
+                    <td>3222,45</td>
+                    <td>18,69</td>
+                    <td>3,92</td>
+                    <td>3245,06</td>
+                </tr>
+                <tr>
+                    <td>13/7/2021 15:27:04</td>
+                    <td>15/7/2021</td>
+                    <td>2907797</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>7,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>70,40</td>
+                    <td>492,80</td>
+                    <td>2,85</td>
+                    <td>0,60</td>
+                    <td>489,35</td>
+                </tr>
+                <tr>
+                    <td>13/7/2021 15:59:45</td>
+                    <td>15/7/2021</td>
+                    <td>2909370</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transener</td>
+                    <td>849</td>
+                    <td>TRAN</td>
+                    <td>99,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>32,50</td>
+                    <td>3217,50</td>
+                    <td>2,57</td>
+                    <td>0,54</td>
+                    <td>3214,39</td>
+                </tr>
+                <tr>
+                    <td>14/7/2021 12:04:32</td>
+                    <td>16/7/2021</td>
+                    <td>2921797</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>52,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>112,60</td>
+                    <td>5855,20</td>
+                    <td>33,96</td>
+                    <td>7,13</td>
+                    <td>5896,29</td>
+                </tr>
+                <tr>
+                    <td>14/7/2021 15:58:01</td>
+                    <td>16/7/2021</td>
+                    <td>2933274</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>52,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>110,20</td>
+                    <td>5730,40</td>
+                    <td>4,58</td>
+                    <td>0,96</td>
+                    <td>5724,86</td>
+                </tr>
+                <tr>
+                    <td>15/7/2021 15:04:47</td>
+                    <td>19/7/2021</td>
+                    <td>2953468</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>768,50</td>
+                    <td>3074,00</td>
+                    <td>17,83</td>
+                    <td>3,75</td>
+                    <td>3095,58</td>
+                </tr>
+                <tr>
+                    <td>15/7/2021 16:25:22</td>
+                    <td>19/7/2021</td>
+                    <td>2956771</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>766,30</td>
+                    <td>3065,20</td>
+                    <td>2,45</td>
+                    <td>0,51</td>
+                    <td>3062,24</td>
+                </tr>
+                <tr>
+                    <td>16/7/2021 16:02:14</td>
+                    <td>20/7/2021</td>
+                    <td>2977853</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>14,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>68,65</td>
+                    <td>961,10</td>
+                    <td>5,58</td>
+                    <td>1,17</td>
+                    <td>967,85</td>
+                </tr>
+                <tr>
+                    <td>16/7/2021 16:52:08</td>
+                    <td>20/7/2021</td>
+                    <td>2979843</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>14,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>68,60</td>
+                    <td>960,40</td>
+                    <td>0,77</td>
+                    <td>0,16</td>
+                    <td>959,47</td>
+                </tr>
+                <tr>
+                    <td>19/7/2021 15:16:25</td>
+                    <td>21/7/2021</td>
+                    <td>3000692</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Telecom Argentina</td>
+                    <td>807</td>
+                    <td>TECO2</td>
+                    <td>15,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>175,00</td>
+                    <td>2625,00</td>
+                    <td>15,23</td>
+                    <td>3,20</td>
+                    <td>2643,43</td>
+                </tr>
+                <tr>
+                    <td>19/7/2021 15:58:58</td>
+                    <td>21/7/2021</td>
+                    <td>3002574</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Telecom Argentina</td>
+                    <td>807</td>
+                    <td>TECO2</td>
+                    <td>15,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>174,50</td>
+                    <td>2617,50</td>
+                    <td>2,09</td>
+                    <td>0,44</td>
+                    <td>2614,97</td>
+                </tr>
+                <tr>
+                    <td>20/7/2021 13:26:21</td>
+                    <td>22/7/2021</td>
+                    <td>3019470</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transener</td>
+                    <td>849</td>
+                    <td>TRAN</td>
+                    <td>214,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>32,75</td>
+                    <td>7008,50</td>
+                    <td>40,65</td>
+                    <td>8,54</td>
+                    <td>7057,69</td>
+                </tr>
+                <tr>
+                    <td>20/7/2021 16:31:03</td>
+                    <td>22/7/2021</td>
+                    <td>3027736</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transener</td>
+                    <td>849</td>
+                    <td>TRAN</td>
+                    <td>214,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>33,10</td>
+                    <td>7084,10</td>
+                    <td>5,67</td>
+                    <td>1,19</td>
+                    <td>7077,24</td>
+                </tr>
+                <tr>
+                    <td>22/7/2021 15:02:53</td>
+                    <td>26/7/2021</td>
+                    <td>3072756</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>47,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>114,85</td>
+                    <td>5397,95</td>
+                    <td>31,31</td>
+                    <td>6,58</td>
+                    <td>5435,84</td>
+                </tr>
+                <tr>
+                    <td>22/7/2021 16:33:27</td>
+                    <td>26/7/2021</td>
+                    <td>3076638</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>47,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>116,45</td>
+                    <td>5473,15</td>
+                    <td>4,38</td>
+                    <td>0,92</td>
+                    <td>5467,85</td>
+                </tr>
+                <tr>
+                    <td>23/7/2021 15:39:12</td>
+                    <td>27/7/2021</td>
+                    <td>3099186</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>36,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>69,10</td>
+                    <td>2487,60</td>
+                    <td>14,43</td>
+                    <td>3,03</td>
+                    <td>2505,06</td>
+                </tr>
+                <tr>
+                    <td>23/7/2021 16:51:21</td>
+                    <td>27/7/2021</td>
+                    <td>3102182</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>36,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>68,80</td>
+                    <td>2476,80</td>
+                    <td>1,98</td>
+                    <td>0,42</td>
+                    <td>2474,40</td>
+                </tr>
+                <tr>
+                    <td>26/7/2021 13:22:22</td>
+                    <td>28/7/2021</td>
+                    <td>3117957</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>42,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>115,05</td>
+                    <td>4832,10</td>
+                    <td>28,03</td>
+                    <td>5,88</td>
+                    <td>4866,01</td>
+                </tr>
+                <tr>
+                    <td>26/7/2021 14:16:23</td>
+                    <td>28/7/2021</td>
+                    <td>3120772</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>42,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>114,40</td>
+                    <td>4804,80</td>
+                    <td>3,84</td>
+                    <td>0,81</td>
+                    <td>4800,15</td>
+                </tr>
+                <tr>
+                    <td>27/7/2021 16:32:05</td>
+                    <td>29/7/2021</td>
+                    <td>3151458</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>41,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>111,95</td>
+                    <td>4589,95</td>
+                    <td>26,62</td>
+                    <td>5,59</td>
+                    <td>4622,16</td>
+                </tr>
+                <tr>
+                    <td>27/7/2021 16:46:05</td>
+                    <td>29/7/2021</td>
+                    <td>3151976</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>41,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>111,00</td>
+                    <td>4551,00</td>
+                    <td>3,64</td>
+                    <td>0,76</td>
+                    <td>4546,60</td>
+                </tr>
+                <tr>
+                    <td>28/7/2021 15:20:38</td>
+                    <td>30/7/2021</td>
+                    <td>3172237</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Telecom Argentina</td>
+                    <td>807</td>
+                    <td>TECO2</td>
+                    <td>23,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>182,00</td>
+                    <td>4186,00</td>
+                    <td>24,28</td>
+                    <td>5,10</td>
+                    <td>4215,38</td>
+                </tr>
+                <tr>
+                    <td>28/7/2021 16:31:28</td>
+                    <td>30/7/2021</td>
+                    <td>3175979</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Telecom Argentina</td>
+                    <td>807</td>
+                    <td>TECO2</td>
+                    <td>23,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>182,50</td>
+                    <td>4197,50</td>
+                    <td>3,36</td>
+                    <td>0,71</td>
+                    <td>4193,43</td>
+                </tr>
+                <tr>
+                    <td>29/7/2021 11:17:00</td>
+                    <td>2/8/2021</td>
+                    <td>3184103</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>128,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>70,60</td>
+                    <td>9036,80</td>
+                    <td>52,41</td>
+                    <td>11,01</td>
+                    <td>9100,22</td>
+                </tr>
+                <tr>
+                    <td>29/7/2021 16:50:25</td>
+                    <td>2/8/2021</td>
+                    <td>3202922</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>128,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>70,50</td>
+                    <td>9024,00</td>
+                    <td>7,22</td>
+                    <td>1,52</td>
+                    <td>9015,26</td>
+                </tr>
+                <tr>
+                    <td>30/7/2021 14:04:15</td>
+                    <td>3/8/2021</td>
+                    <td>3221965</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>213,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>24,60</td>
+                    <td>5239,80</td>
+                    <td>30,39</td>
+                    <td>6,38</td>
+                    <td>5276,57</td>
+                </tr>
+                <tr>
+                    <td>30/7/2021 15:59:57</td>
+                    <td>3/8/2021</td>
+                    <td>3228532</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>213,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>24,37</td>
+                    <td>5191,55</td>
+                    <td>4,15</td>
+                    <td>0,87</td>
+                    <td>5186,53</td>
+                </tr>
+                <tr>
+                    <td>2/8/2021 11:33:50</td>
+                    <td>4/8/2021</td>
+                    <td>3237962</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>1549,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>4,31</td>
+                    <td>6676,19</td>
+                    <td>38,72</td>
+                    <td>8,13</td>
+                    <td>6723,04</td>
+                </tr>
+                <tr>
+                    <td>2/8/2021 16:01:14</td>
+                    <td>4/8/2021</td>
+                    <td>3254508</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>1549,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>4,32</td>
+                    <td>6691,68</td>
+                    <td>5,35</td>
+                    <td>1,12</td>
+                    <td>6685,21</td>
+                </tr>
+                <tr>
+                    <td>3/8/2021 15:10:06</td>
+                    <td>5/8/2021</td>
+                    <td>3279603</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>1996,50</td>
+                    <td>7986,00</td>
+                    <td>46,32</td>
+                    <td>9,73</td>
+                    <td>8042,05</td>
+                </tr>
+                <tr>
+                    <td>3/8/2021 16:10:55</td>
+                    <td>5/8/2021</td>
+                    <td>3282579</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>1977,00</td>
+                    <td>7908,00</td>
+                    <td>6,33</td>
+                    <td>1,33</td>
+                    <td>7900,34</td>
+                </tr>
+                <tr>
+                    <td>4/8/2021 12:33:46</td>
+                    <td>6/8/2021</td>
+                    <td>3297732</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>341,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>24,45</td>
+                    <td>8337,45</td>
+                    <td>48,36</td>
+                    <td>10,15</td>
+                    <td>8395,96</td>
+                </tr>
+                <tr>
+                    <td>4/8/2021 15:50:47</td>
+                    <td>6/8/2021</td>
+                    <td>3307987</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>341,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>23,80</td>
+                    <td>8115,80</td>
+                    <td>6,49</td>
+                    <td>1,36</td>
+                    <td>8107,95</td>
+                </tr>
+                <tr>
+                    <td>5/8/2021 11:02:59</td>
+                    <td>9/8/2021</td>
+                    <td>3315191</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>3,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>2049,00</td>
+                    <td>6147,00</td>
+                    <td>35,66</td>
+                    <td>7,49</td>
+                    <td>6190,15</td>
+                </tr>
+                <tr>
+                    <td>5/8/2021 15:32:55</td>
+                    <td>9/8/2021</td>
+                    <td>3333636</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>3,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>2095,00</td>
+                    <td>6285,00</td>
+                    <td>5,03</td>
+                    <td>1,06</td>
+                    <td>6278,91</td>
+                </tr>
+                <tr>
+                    <td>6/8/2021 14:23:01</td>
+                    <td>10/8/2021</td>
+                    <td>3355559</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>25,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>111,35</td>
+                    <td>2783,75</td>
+                    <td>16,15</td>
+                    <td>3,39</td>
+                    <td>2803,29</td>
+                </tr>
+                <tr>
+                    <td>6/8/2021 16:30:56</td>
+                    <td>10/8/2021</td>
+                    <td>3360981</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>25,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>110,75</td>
+                    <td>2768,75</td>
+                    <td>2,22</td>
+                    <td>0,47</td>
+                    <td>2766,06</td>
+                </tr>
+                <tr>
+                    <td>9/8/2021 11:37:07</td>
+                    <td>11/8/2021</td>
+                    <td>3371097</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transener</td>
+                    <td>849</td>
+                    <td>TRAN</td>
+                    <td>162,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>32,40</td>
+                    <td>5248,80</td>
+                    <td>30,44</td>
+                    <td>6,39</td>
+                    <td>5285,63</td>
+                </tr>
+                <tr>
+                    <td>9/8/2021 16:36:13</td>
+                    <td>11/8/2021</td>
+                    <td>3385687</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transener</td>
+                    <td>849</td>
+                    <td>TRAN</td>
+                    <td>162,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>32,20</td>
+                    <td>5216,40</td>
+                    <td>4,17</td>
+                    <td>0,88</td>
+                    <td>5211,35</td>
+                </tr>
+                <tr>
+                    <td>10/8/2021 12:17:34</td>
+                    <td>12/8/2021</td>
+                    <td>3398262</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>40,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>146,10</td>
+                    <td>5844,00</td>
+                    <td>33,90</td>
+                    <td>7,12</td>
+                    <td>5885,02</td>
+                </tr>
+                <tr>
+                    <td>10/8/2021 16:15:32</td>
+                    <td>12/8/2021</td>
+                    <td>3411084</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>40,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>149,90</td>
+                    <td>5996,00</td>
+                    <td>4,80</td>
+                    <td>1,01</td>
+                    <td>5990,19</td>
+                </tr>
+                <tr>
+                    <td>12/8/2021 12:01:17</td>
+                    <td>17/8/2021</td>
+                    <td>3450598</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>723,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>4,73</td>
+                    <td>3419,79</td>
+                    <td>19,84</td>
+                    <td>4,16</td>
+                    <td>3443,79</td>
+                </tr>
+                <tr>
+                    <td>13/8/2021 11:02:15</td>
+                    <td>18/8/2021</td>
+                    <td>3469846</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>723,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>4,64</td>
+                    <td>3354,72</td>
+                    <td>19,45</td>
+                    <td>4,08</td>
+                    <td>3331,19</td>
+                </tr>
+                <tr>
+                    <td>13/8/2021 12:58:13</td>
+                    <td>18/8/2021</td>
+                    <td>3476876</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Sur</td>
+                    <td>617</td>
+                    <td>TGSU2</td>
+                    <td>18,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>169,80</td>
+                    <td>3056,40</td>
+                    <td>17,73</td>
+                    <td>3,72</td>
+                    <td>3077,85</td>
+                </tr>
+                <tr>
+                    <td>13/8/2021 16:27:42</td>
+                    <td>18/8/2021</td>
+                    <td>3484886</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Sur</td>
+                    <td>617</td>
+                    <td>TGSU2</td>
+                    <td>18,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>168,50</td>
+                    <td>3033,00</td>
+                    <td>2,43</td>
+                    <td>0,51</td>
+                    <td>3030,06</td>
+                </tr>
+                <tr>
+                    <td>17/8/2021 14:41:45</td>
+                    <td>19/8/2021</td>
+                    <td>3504239</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>61,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>100,20</td>
+                    <td>6112,20</td>
+                    <td>35,45</td>
+                    <td>7,45</td>
+                    <td>6155,10</td>
+                </tr>
+                <tr>
+                    <td>17/8/2021 16:47:22</td>
+                    <td>19/8/2021</td>
+                    <td>3510299</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>61,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>100,62</td>
+                    <td>6137,75</td>
+                    <td>4,91</td>
+                    <td>1,03</td>
+                    <td>6131,81</td>
+                </tr>
+                <tr>
+                    <td>18/8/2021 14:40:45</td>
+                    <td>20/8/2021</td>
+                    <td>3526225</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>87,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>87,80</td>
+                    <td>7638,60</td>
+                    <td>44,30</td>
+                    <td>9,30</td>
+                    <td>7692,20</td>
+                </tr>
+                <tr>
+                    <td>18/8/2021 15:00:30</td>
+                    <td>20/8/2021</td>
+                    <td>3526857</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>87,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>87,60</td>
+                    <td>7621,20</td>
+                    <td>6,10</td>
+                    <td>1,28</td>
+                    <td>7613,82</td>
+                </tr>
+                <tr>
+                    <td>19/8/2021 11:15:58</td>
+                    <td>23/8/2021</td>
+                    <td>3537368</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>132,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>4,43</td>
+                    <td>584,76</td>
+                    <td>3,39</td>
+                    <td>0,71</td>
+                    <td>588,86</td>
+                </tr>
+                <tr>
+                    <td>19/8/2021 16:01:35</td>
+                    <td>23/8/2021</td>
+                    <td>3551610</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>132,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>4,40</td>
+                    <td>580,80</td>
+                    <td>0,46</td>
+                    <td>0,10</td>
+                    <td>580,24</td>
+                </tr>
+                <tr>
+                    <td>20/8/2021 15:22:40</td>
+                    <td>24/8/2021</td>
+                    <td>3569475</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>2273,00</td>
+                    <td>2273,00</td>
+                    <td>13,19</td>
+                    <td>2,77</td>
+                    <td>2288,96</td>
+                </tr>
+                <tr>
+                    <td>20/8/2021 15:28:07</td>
+                    <td>24/8/2021</td>
+                    <td>3569653</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>2262,00</td>
+                    <td>2262,00</td>
+                    <td>1,81</td>
+                    <td>0,38</td>
+                    <td>2259,81</td>
+                </tr>
+                <tr>
+                    <td>23/8/2021 12:04:28</td>
+                    <td>25/8/2021</td>
+                    <td>3581678</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>66,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>112,60</td>
+                    <td>7431,60</td>
+                    <td>43,11</td>
+                    <td>9,05</td>
+                    <td>7483,76</td>
+                </tr>
+                <tr>
+                    <td>23/8/2021 14:44:00</td>
+                    <td>25/8/2021</td>
+                    <td>3588613</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>66,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>112,07</td>
+                    <td>7396,30</td>
+                    <td>5,92</td>
+                    <td>1,24</td>
+                    <td>7389,14</td>
+                </tr>
+                <tr>
+                    <td>24/8/2021 15:26:58</td>
+                    <td>26/8/2021</td>
+                    <td>3612894</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>13,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>100,00</td>
+                    <td>1300,00</td>
+                    <td>7,54</td>
+                    <td>1,59</td>
+                    <td>1309,13</td>
+                </tr>
+                <tr>
+                    <td>24/8/2021 16:36:27</td>
+                    <td>26/8/2021</td>
+                    <td>3615992</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>13,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>99,20</td>
+                    <td>1289,60</td>
+                    <td>1,03</td>
+                    <td>0,22</td>
+                    <td>1288,35</td>
+                </tr>
+                <tr>
+                    <td>25/8/2021 15:04:02</td>
+                    <td>27/8/2021</td>
+                    <td>3633326</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>47,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>89,10</td>
+                    <td>4187,70</td>
+                    <td>24,29</td>
+                    <td>5,10</td>
+                    <td>4217,09</td>
+                </tr>
+                <tr>
+                    <td>25/8/2021 16:15:51</td>
+                    <td>27/8/2021</td>
+                    <td>3636317</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>47,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>88,40</td>
+                    <td>4154,80</td>
+                    <td>3,32</td>
+                    <td>0,70</td>
+                    <td>4150,78</td>
+                </tr>
+                <tr>
+                    <td>26/8/2021 12:10:37</td>
+                    <td>30/8/2021</td>
+                    <td>3646712</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>25,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>120,50</td>
+                    <td>3012,50</td>
+                    <td>17,47</td>
+                    <td>3,67</td>
+                    <td>3033,64</td>
+                </tr>
+                <tr>
+                    <td>26/8/2021 16:15:43</td>
+                    <td>30/8/2021</td>
+                    <td>3655879</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>25,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>119,80</td>
+                    <td>2995,00</td>
+                    <td>2,40</td>
+                    <td>0,50</td>
+                    <td>2992,10</td>
+                </tr>
+                <tr>
+                    <td>27/8/2021 12:46:27</td>
+                    <td>31/8/2021</td>
+                    <td>3668565</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Banco Macro</td>
+                    <td>111</td>
+                    <td>BMA</td>
+                    <td>16,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>318,00</td>
+                    <td>5088,00</td>
+                    <td>29,51</td>
+                    <td>6,19</td>
+                    <td>5123,70</td>
+                </tr>
+                <tr>
+                    <td>27/8/2021 16:31:07</td>
+                    <td>31/8/2021</td>
+                    <td>3677716</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Banco Macro</td>
+                    <td>111</td>
+                    <td>BMA</td>
+                    <td>16,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>314,00</td>
+                    <td>5024,00</td>
+                    <td>4,02</td>
+                    <td>0,84</td>
+                    <td>5019,14</td>
+                </tr>
+                <tr>
+                    <td>31/8/2021 11:32:22</td>
+                    <td>2/9/2021</td>
+                    <td>3711945</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Edenor</td>
+                    <td>508</td>
+                    <td>EDN</td>
+                    <td>96,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>66,25</td>
+                    <td>6360,00</td>
+                    <td>36,89</td>
+                    <td>7,75</td>
+                    <td>6404,64</td>
+                </tr>
+                <tr>
+                    <td>31/8/2021 16:22:33</td>
+                    <td>2/9/2021</td>
+                    <td>3726177</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Edenor</td>
+                    <td>508</td>
+                    <td>EDN</td>
+                    <td>96,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>61,90</td>
+                    <td>5942,40</td>
+                    <td>4,75</td>
+                    <td>1,00</td>
+                    <td>5936,65</td>
+                </tr>
+                <tr>
+                    <td>1/9/2021 12:19:58</td>
+                    <td>3/9/2021</td>
+                    <td>3739092</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Bolsas Y Mercados Argentinos S.A.</td>
+                    <td>30038</td>
+                    <td>BYMA</td>
+                    <td>7,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>838,00</td>
+                    <td>5866,00</td>
+                    <td>34,02</td>
+                    <td>7,15</td>
+                    <td>5907,17</td>
+                </tr>
+                <tr>
+                    <td>1/9/2021 15:27:08</td>
+                    <td>3/9/2021</td>
+                    <td>3748121</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Bolsas Y Mercados Argentinos S.A.</td>
+                    <td>30038</td>
+                    <td>BYMA</td>
+                    <td>7,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>830,00</td>
+                    <td>5810,00</td>
+                    <td>4,65</td>
+                    <td>0,98</td>
+                    <td>5804,37</td>
+                </tr>
+                <tr>
+                    <td>2/9/2021 14:43:27</td>
+                    <td>6/9/2021</td>
+                    <td>3772343</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>18,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>104,00</td>
+                    <td>1872,00</td>
+                    <td>10,86</td>
+                    <td>2,28</td>
+                    <td>1885,14</td>
+                </tr>
+                <tr>
+                    <td>2/9/2021 16:34:08</td>
+                    <td>6/9/2021</td>
+                    <td>3777259</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>18,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>103,00</td>
+                    <td>1854,00</td>
+                    <td>1,48</td>
+                    <td>0,31</td>
+                    <td>1852,21</td>
+                </tr>
+                <tr>
+                    <td>3/9/2021 12:52:08</td>
+                    <td>7/9/2021</td>
+                    <td>3798269</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>3,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>181,95</td>
+                    <td>545,85</td>
+                    <td>3,17</td>
+                    <td>0,66</td>
+                    <td>549,68</td>
+                </tr>
+                <tr>
+                    <td>3/9/2021 16:05:37</td>
+                    <td>7/9/2021</td>
+                    <td>3798282</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>3,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>182,70</td>
+                    <td>548,10</td>
+                    <td>0,44</td>
+                    <td>0,09</td>
+                    <td>547,57</td>
+                </tr>
+                <tr>
+                    <td>6/9/2021 13:15:47</td>
+                    <td>8/9/2021</td>
+                    <td>3813751</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Sur</td>
+                    <td>617</td>
+                    <td>TGSU2</td>
+                    <td>22,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>178,00</td>
+                    <td>3916,00</td>
+                    <td>22,71</td>
+                    <td>4,77</td>
+                    <td>3943,48</td>
+                </tr>
+                <tr>
+                    <td>6/9/2021 15:05:01</td>
+                    <td>8/9/2021</td>
+                    <td>3817777</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Sur</td>
+                    <td>617</td>
+                    <td>TGSU2</td>
+                    <td>22,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>180,00</td>
+                    <td>3960,00</td>
+                    <td>3,17</td>
+                    <td>0,67</td>
+                    <td>3956,16</td>
+                </tr>
+                <tr>
+                    <td>7/9/2021 14:33:24</td>
+                    <td>9/9/2021</td>
+                    <td>3842767</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Central Puerto Sa</td>
+                    <td>322</td>
+                    <td>CEPU</td>
+                    <td>56,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>50,85</td>
+                    <td>2847,60</td>
+                    <td>16,52</td>
+                    <td>3,47</td>
+                    <td>2867,59</td>
+                </tr>
+                <tr>
+                    <td>7/9/2021 16:37:28</td>
+                    <td>9/9/2021</td>
+                    <td>3850079</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Central Puerto Sa</td>
+                    <td>322</td>
+                    <td>CEPU</td>
+                    <td>56,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>52,60</td>
+                    <td>2945,60</td>
+                    <td>2,36</td>
+                    <td>0,49</td>
+                    <td>2942,75</td>
+                </tr>
+                <tr>
+                    <td>8/9/2021 12:31:35</td>
+                    <td>10/9/2021</td>
+                    <td>3865802</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>2,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>377,00</td>
+                    <td>754,00</td>
+                    <td>4,37</td>
+                    <td>0,92</td>
+                    <td>759,29</td>
+                </tr>
+                <tr>
+                    <td>8/9/2021 13:41:34</td>
+                    <td>10/9/2021</td>
+                    <td>3869937</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>2,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>380,00</td>
+                    <td>760,00</td>
+                    <td>0,61</td>
+                    <td>0,13</td>
+                    <td>759,26</td>
+                </tr>
+                <tr>
+                    <td>9/9/2021 11:49:42</td>
+                    <td>13/9/2021</td>
+                    <td>3889862</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>946,10</td>
+                    <td>3784,40</td>
+                    <td>21,95</td>
+                    <td>4,61</td>
+                    <td>3810,96</td>
+                </tr>
+                <tr>
+                    <td>9/9/2021 16:24:31</td>
+                    <td>13/9/2021</td>
+                    <td>3904723</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>934,00</td>
+                    <td>3736,00</td>
+                    <td>2,99</td>
+                    <td>0,63</td>
+                    <td>3732,38</td>
+                </tr>
+                <tr>
+                    <td>10/9/2021 14:36:35</td>
+                    <td>14/9/2021</td>
+                    <td>3925177</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>2,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>2745,00</td>
+                    <td>5490,00</td>
+                    <td>31,84</td>
+                    <td>6,68</td>
+                    <td>5528,52</td>
+                </tr>
+                <tr>
+                    <td>10/9/2021 15:22:45</td>
+                    <td>14/9/2021</td>
+                    <td>3927555</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>2,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>2745,00</td>
+                    <td>5490,00</td>
+                    <td>4,39</td>
+                    <td>0,92</td>
+                    <td>5484,69</td>
+                </tr>
+                <tr>
+                    <td>13/9/2021 13:02:23</td>
+                    <td>15/9/2021</td>
+                    <td>3946858</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>394,00</td>
+                    <td>394,00</td>
+                    <td>2,29</td>
+                    <td>0,48</td>
+                    <td>396,77</td>
+                </tr>
+                <tr>
+                    <td>14/9/2021 16:36:11</td>
+                    <td>16/9/2021</td>
+                    <td>3979592</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>402,50</td>
+                    <td>402,50</td>
+                    <td>2,33</td>
+                    <td>0,49</td>
+                    <td>399,68</td>
+                </tr>
+                <tr>
+                    <td>14/9/2021 16:38:44</td>
+                    <td>16/9/2021</td>
+                    <td>3979659</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>58,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>91,40</td>
+                    <td>5301,20</td>
+                    <td>30,75</td>
+                    <td>6,46</td>
+                    <td>5338,41</td>
+                </tr>
+                <tr>
+                    <td>14/9/2021 16:51:41</td>
+                    <td>16/9/2021</td>
+                    <td>3980116</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>58,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>91,15</td>
+                    <td>5286,80</td>
+                    <td>4,23</td>
+                    <td>0,89</td>
+                    <td>5281,68</td>
+                </tr>
+                <tr>
+                    <td>14/9/2021 17:21:04</td>
+                    <td>16/9/2021</td>
+                    <td>3980567</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>400,00</td>
+                    <td>400,00</td>
+                    <td>2,32</td>
+                    <td>0,49</td>
+                    <td>397,19</td>
+                </tr>
+                <tr>
+                    <td>15/9/2021 15:15:37</td>
+                    <td>17/9/2021</td>
+                    <td>3996343</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>3,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>941,00</td>
+                    <td>2823,00</td>
+                    <td>16,38</td>
+                    <td>3,44</td>
+                    <td>2842,82</td>
+                </tr>
+                <tr>
+                    <td>15/9/2021 16:50:19</td>
+                    <td>17/9/2021</td>
+                    <td>4000419</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>3,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>945,05</td>
+                    <td>2835,15</td>
+                    <td>2,27</td>
+                    <td>0,48</td>
+                    <td>2832,40</td>
+                </tr>
+                <tr>
+                    <td>16/9/2021 13:32:30</td>
+                    <td>16/9/2021</td>
+                    <td>4012836</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>410,00</td>
+                    <td>410,00</td>
+                    <td>2,38</td>
+                    <td>0,50</td>
+                    <td>412,88</td>
+                </tr>
+                <tr>
+                    <td>16/9/2021 13:53:01</td>
+                    <td>20/9/2021</td>
+                    <td>4013761</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>164,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>23,80</td>
+                    <td>3903,20</td>
+                    <td>22,64</td>
+                    <td>4,76</td>
+                    <td>3930,60</td>
+                </tr>
+                <tr>
+                    <td>16/9/2021 16:32:14</td>
+                    <td>20/9/2021</td>
+                    <td>4020225</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>164,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>24,10</td>
+                    <td>3952,40</td>
+                    <td>3,16</td>
+                    <td>0,66</td>
+                    <td>3948,58</td>
+                </tr>
+                <tr>
+                    <td>20/9/2021 12:17:21</td>
+                    <td>22/9/2021</td>
+                    <td>4054222</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>883,40</td>
+                    <td>883,40</td>
+                    <td>5,13</td>
+                    <td>1,08</td>
+                    <td>889,61</td>
+                </tr>
+                <tr>
+                    <td>20/9/2021 16:00:45</td>
+                    <td>22/9/2021</td>
+                    <td>4065805</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>872,00</td>
+                    <td>872,00</td>
+                    <td>0,70</td>
+                    <td>0,15</td>
+                    <td>871,15</td>
+                </tr>
+                <tr>
+                    <td>21/9/2021 14:04:18</td>
+                    <td>23/9/2021</td>
+                    <td>4082274</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Edenor</td>
+                    <td>508</td>
+                    <td>EDN</td>
+                    <td>63,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>60,10</td>
+                    <td>3786,30</td>
+                    <td>21,96</td>
+                    <td>4,62</td>
+                    <td>3812,88</td>
+                </tr>
+                <tr>
+                    <td>21/9/2021 16:40:16</td>
+                    <td>23/9/2021</td>
+                    <td>4087383</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Edenor</td>
+                    <td>508</td>
+                    <td>EDN</td>
+                    <td>63,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>59,30</td>
+                    <td>3735,90</td>
+                    <td>2,99</td>
+                    <td>0,63</td>
+                    <td>3732,28</td>
+                </tr>
+                <tr>
+                    <td>23/9/2021 14:02:52</td>
+                    <td>27/9/2021</td>
+                    <td>4121992</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Norte</td>
+                    <td>30005</td>
+                    <td>TGNO4</td>
+                    <td>59,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>84,90</td>
+                    <td>5009,10</td>
+                    <td>29,06</td>
+                    <td>6,10</td>
+                    <td>5044,26</td>
+                </tr>
+                <tr>
+                    <td>23/9/2021 16:00:42</td>
+                    <td>27/9/2021</td>
+                    <td>4126965</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Norte</td>
+                    <td>30005</td>
+                    <td>TGNO4</td>
+                    <td>59,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>85,10</td>
+                    <td>5020,90</td>
+                    <td>4,02</td>
+                    <td>0,84</td>
+                    <td>5016,04</td>
+                </tr>
+                <tr>
+                    <td>24/9/2021 11:31:00</td>
+                    <td>28/9/2021</td>
+                    <td>4135360</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>1162,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>4,95</td>
+                    <td>5751,90</td>
+                    <td>33,36</td>
+                    <td>7,01</td>
+                    <td>5792,27</td>
+                </tr>
+                <tr>
+                    <td>27/9/2021 11:30:40</td>
+                    <td>29/9/2021</td>
+                    <td>4154739</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>1162,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>5,01</td>
+                    <td>5821,62</td>
+                    <td>33,77</td>
+                    <td>7,09</td>
+                    <td>5780,76</td>
+                </tr>
+                <tr>
+                    <td>27/9/2021 11:31:08</td>
+                    <td>29/9/2021</td>
+                    <td>4154770</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>184,80</td>
+                    <td>184,80</td>
+                    <td>1,07</td>
+                    <td>0,22</td>
+                    <td>186,09</td>
+                </tr>
+                <tr>
+                    <td>27/9/2021 16:50:37</td>
+                    <td>29/9/2021</td>
+                    <td>4169262</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>188,00</td>
+                    <td>188,00</td>
+                    <td>0,15</td>
+                    <td>0,03</td>
+                    <td>187,82</td>
+                </tr>
+                <tr>
+                    <td>28/9/2021 11:14:02</td>
+                    <td>30/9/2021</td>
+                    <td>4175180</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Telecom Argentina</td>
+                    <td>807</td>
+                    <td>TECO2</td>
+                    <td>21,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>191,90</td>
+                    <td>4029,90</td>
+                    <td>23,37</td>
+                    <td>4,91</td>
+                    <td>4058,18</td>
+                </tr>
+                <tr>
+                    <td>28/9/2021 14:07:08</td>
+                    <td>30/9/2021</td>
+                    <td>4184518</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Telecom Argentina</td>
+                    <td>807</td>
+                    <td>TECO2</td>
+                    <td>21,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>187,75</td>
+                    <td>3942,75</td>
+                    <td>3,15</td>
+                    <td>0,66</td>
+                    <td>3938,94</td>
+                </tr>
+                <tr>
+                    <td>29/9/2021 16:08:03</td>
+                    <td>1/10/2021</td>
+                    <td>4209716</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Aluar</td>
+                    <td>7</td>
+                    <td>ALUA</td>
+                    <td>94,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>63,80</td>
+                    <td>5997,20</td>
+                    <td>34,79</td>
+                    <td>7,31</td>
+                    <td>6039,30</td>
+                </tr>
+                <tr>
+                    <td>29/9/2021 16:24:28</td>
+                    <td>1/10/2021</td>
+                    <td>4210166</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Aluar</td>
+                    <td>7</td>
+                    <td>ALUA</td>
+                    <td>94,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>63,60</td>
+                    <td>5978,40</td>
+                    <td>4,78</td>
+                    <td>1,00</td>
+                    <td>5972,62</td>
+                </tr>
+                <tr>
+                    <td>30/9/2021 14:44:06</td>
+                    <td>4/10/2021</td>
+                    <td>4227341</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>46,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>92,30</td>
+                    <td>4245,80</td>
+                    <td>24,63</td>
+                    <td>5,17</td>
+                    <td>4275,60</td>
+                </tr>
+                <tr>
+                    <td>30/9/2021 16:38:46</td>
+                    <td>4/10/2021</td>
+                    <td>4231563</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>46,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>92,60</td>
+                    <td>4259,60</td>
+                    <td>3,41</td>
+                    <td>0,72</td>
+                    <td>4255,47</td>
+                </tr>
+                <tr>
+                    <td>1/10/2021 11:21:23</td>
+                    <td>5/10/2021</td>
+                    <td>4238750</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>913,90</td>
+                    <td>913,90</td>
+                    <td>5,30</td>
+                    <td>1,11</td>
+                    <td>920,31</td>
+                </tr>
+                <tr>
+                    <td>1/10/2021 14:45:59</td>
+                    <td>5/10/2021</td>
+                    <td>4250208</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>912,00</td>
+                    <td>912,00</td>
+                    <td>0,73</td>
+                    <td>0,15</td>
+                    <td>911,12</td>
+                </tr>
+                <tr>
+                    <td>4/10/2021 11:21:38</td>
+                    <td>6/10/2021</td>
+                    <td>4263394</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>922,00</td>
+                    <td>922,00</td>
+                    <td>5,35</td>
+                    <td>1,12</td>
+                    <td>928,47</td>
+                </tr>
+                <tr>
+                    <td>4/10/2021 15:01:06</td>
+                    <td>6/10/2021</td>
+                    <td>4276392</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>YPF</td>
+                    <td>710</td>
+                    <td>YPFD</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>920,75</td>
+                    <td>920,75</td>
+                    <td>0,74</td>
+                    <td>0,15</td>
+                    <td>919,86</td>
+                </tr>
+                <tr>
+                    <td>5/10/2021 16:13:36</td>
+                    <td>7/10/2021</td>
+                    <td>4301619</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>8,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>384,00</td>
+                    <td>3072,00</td>
+                    <td>17,82</td>
+                    <td>3,75</td>
+                    <td>3093,57</td>
+                </tr>
+                <tr>
+                    <td>5/10/2021 16:46:16</td>
+                    <td>7/10/2021</td>
+                    <td>4302653</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>8,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>380,00</td>
+                    <td>3040,00</td>
+                    <td>2,43</td>
+                    <td>0,51</td>
+                    <td>3037,06</td>
+                </tr>
+                <tr>
+                    <td>6/10/2021 12:17:19</td>
+                    <td>12/10/2021</td>
+                    <td>4312296</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Bbva</td>
+                    <td>94</td>
+                    <td>BBAR</td>
+                    <td>15,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>239,85</td>
+                    <td>3597,75</td>
+                    <td>20,87</td>
+                    <td>4,38</td>
+                    <td>3623,00</td>
+                </tr>
+                <tr>
+                    <td>6/10/2021 14:06:12</td>
+                    <td>12/10/2021</td>
+                    <td>4316113</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Bbva</td>
+                    <td>94</td>
+                    <td>BBAR</td>
+                    <td>15,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>239,20</td>
+                    <td>3588,00</td>
+                    <td>2,87</td>
+                    <td>0,60</td>
+                    <td>3584,53</td>
+                </tr>
+                <tr>
+                    <td>7/10/2021 12:44:57</td>
+                    <td>13/10/2021</td>
+                    <td>4331846</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Sur</td>
+                    <td>617</td>
+                    <td>TGSU2</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>197,00</td>
+                    <td>197,00</td>
+                    <td>1,15</td>
+                    <td>0,24</td>
+                    <td>198,39</td>
+                </tr>
+                <tr>
+                    <td>7/10/2021 15:32:57</td>
+                    <td>13/10/2021</td>
+                    <td>4337696</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Sur</td>
+                    <td>617</td>
+                    <td>TGSU2</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>201,25</td>
+                    <td>201,25</td>
+                    <td>0,16</td>
+                    <td>0,03</td>
+                    <td>201,06</td>
+                </tr>
+                <tr>
+                    <td>12/10/2021 14:55:10</td>
+                    <td>14/10/2021</td>
+                    <td>4357934</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>197,80</td>
+                    <td>197,80</td>
+                    <td>1,15</td>
+                    <td>0,24</td>
+                    <td>199,19</td>
+                </tr>
+                <tr>
+                    <td>12/10/2021 16:45:33</td>
+                    <td>14/10/2021</td>
+                    <td>4362029</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>197,00</td>
+                    <td>197,00</td>
+                    <td>0,16</td>
+                    <td>0,03</td>
+                    <td>196,81</td>
+                </tr>
+                <tr>
+                    <td>13/10/2021 15:15:46</td>
+                    <td>15/10/2021</td>
+                    <td>4379594</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Sur</td>
+                    <td>617</td>
+                    <td>TGSU2</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>211,00</td>
+                    <td>844,00</td>
+                    <td>4,90</td>
+                    <td>1,03</td>
+                    <td>849,93</td>
+                </tr>
+                <tr>
+                    <td>13/10/2021 16:15:39</td>
+                    <td>15/10/2021</td>
+                    <td>4381789</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Sur</td>
+                    <td>617</td>
+                    <td>TGSU2</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>211,00</td>
+                    <td>844,00</td>
+                    <td>0,68</td>
+                    <td>0,14</td>
+                    <td>843,18</td>
+                </tr>
+                <tr>
+                    <td>14/10/2021 11:02:16</td>
+                    <td>18/10/2021</td>
+                    <td>4387031</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>2,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>3550,00</td>
+                    <td>7100,00</td>
+                    <td>41,18</td>
+                    <td>8,65</td>
+                    <td>7149,83</td>
+                </tr>
+                <tr>
+                    <td>14/10/2021 15:20:50</td>
+                    <td>18/10/2021</td>
+                    <td>4400515</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>2,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>3555,00</td>
+                    <td>7110,00</td>
+                    <td>5,69</td>
+                    <td>1,19</td>
+                    <td>7103,12</td>
+                </tr>
+                <tr>
+                    <td>15/10/2021 16:09:45</td>
+                    <td>19/10/2021</td>
+                    <td>4423246</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>43,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>99,70</td>
+                    <td>4287,10</td>
+                    <td>24,87</td>
+                    <td>5,22</td>
+                    <td>4317,19</td>
+                </tr>
+                <tr>
+                    <td>15/10/2021 16:45:58</td>
+                    <td>19/10/2021</td>
+                    <td>4424852</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>43,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>99,70</td>
+                    <td>4287,10</td>
+                    <td>3,43</td>
+                    <td>0,72</td>
+                    <td>4282,95</td>
+                </tr>
+                <tr>
+                    <td>18/10/2021 15:23:52</td>
+                    <td>20/10/2021</td>
+                    <td>4443189</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Banco Macro</td>
+                    <td>111</td>
+                    <td>BMA</td>
+                    <td>19,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>333,50</td>
+                    <td>6336,50</td>
+                    <td>36,75</td>
+                    <td>7,71</td>
+                    <td>6380,96</td>
+                </tr>
+                <tr>
+                    <td>19/10/2021 14:45:22</td>
+                    <td>21/10/2021</td>
+                    <td>4462301</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Banco Macro</td>
+                    <td>111</td>
+                    <td>BMA</td>
+                    <td>19,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>337,00</td>
+                    <td>6403,00</td>
+                    <td>37,14</td>
+                    <td>7,80</td>
+                    <td>6358,06</td>
+                </tr>
+                <tr>
+                    <td>19/10/2021 15:55:31</td>
+                    <td>21/10/2021</td>
+                    <td>4465933</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>155,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>25,65</td>
+                    <td>3975,75</td>
+                    <td>23,06</td>
+                    <td>4,84</td>
+                    <td>4003,65</td>
+                </tr>
+                <tr>
+                    <td>19/10/2021 16:44:53</td>
+                    <td>21/10/2021</td>
+                    <td>4467594</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>155,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>25,90</td>
+                    <td>4014,50</td>
+                    <td>3,21</td>
+                    <td>0,67</td>
+                    <td>4010,62</td>
+                </tr>
+                <tr>
+                    <td>20/10/2021 15:20:44</td>
+                    <td>22/10/2021</td>
+                    <td>4489178</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Aluar</td>
+                    <td>7</td>
+                    <td>ALUA</td>
+                    <td>110,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>69,00</td>
+                    <td>7590,00</td>
+                    <td>44,02</td>
+                    <td>9,25</td>
+                    <td>7643,27</td>
+                </tr>
+                <tr>
+                    <td>20/10/2021 16:31:28</td>
+                    <td>22/10/2021</td>
+                    <td>4492735</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Aluar</td>
+                    <td>7</td>
+                    <td>ALUA</td>
+                    <td>110,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>69,50</td>
+                    <td>7645,00</td>
+                    <td>6,12</td>
+                    <td>1,28</td>
+                    <td>7637,60</td>
+                </tr>
+                <tr>
+                    <td>21/10/2021 12:25:46</td>
+                    <td>25/10/2021</td>
+                    <td>4505825</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>60,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>113,50</td>
+                    <td>6810,00</td>
+                    <td>39,50</td>
+                    <td>8,29</td>
+                    <td>6857,79</td>
+                </tr>
+                <tr>
+                    <td>21/10/2021 15:30:47</td>
+                    <td>25/10/2021</td>
+                    <td>4514700</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>60,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>114,55</td>
+                    <td>6873,00</td>
+                    <td>5,50</td>
+                    <td>1,15</td>
+                    <td>6866,35</td>
+                </tr>
+                <tr>
+                    <td>22/10/2021 12:13:53</td>
+                    <td>26/10/2021</td>
+                    <td>4530339</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>33,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>25,85</td>
+                    <td>853,05</td>
+                    <td>4,95</td>
+                    <td>1,04</td>
+                    <td>859,04</td>
+                </tr>
+                <tr>
+                    <td>22/10/2021 14:46:01</td>
+                    <td>26/10/2021</td>
+                    <td>4539252</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>33,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>25,60</td>
+                    <td>844,80</td>
+                    <td>0,68</td>
+                    <td>0,14</td>
+                    <td>843,98</td>
+                </tr>
+                <tr>
+                    <td>25/10/2021 12:52:07</td>
+                    <td>27/10/2021</td>
+                    <td>4559502</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>236,85</td>
+                    <td>947,40</td>
+                    <td>5,50</td>
+                    <td>1,16</td>
+                    <td>954,06</td>
+                </tr>
+                <tr>
+                    <td>26/10/2021 11:22:57</td>
+                    <td>28/10/2021</td>
+                    <td>4577801</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>241,20</td>
+                    <td>964,80</td>
+                    <td>5,59</td>
+                    <td>1,17</td>
+                    <td>958,04</td>
+                </tr>
+                <tr>
+                    <td>26/10/2021 15:11:41</td>
+                    <td>28/10/2021</td>
+                    <td>4591163</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>10,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>238,00</td>
+                    <td>2380,00</td>
+                    <td>9,04</td>
+                    <td>1,90</td>
+                    <td>2390,94</td>
+                </tr>
+                <tr>
+                    <td>26/10/2021 15:52:14</td>
+                    <td>28/10/2021</td>
+                    <td>4593059</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>10,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>236,90</td>
+                    <td>2369,00</td>
+                    <td>6,64</td>
+                    <td>1,40</td>
+                    <td>2360,96</td>
+                </tr>
+                <tr>
+                    <td>28/10/2021 14:28:16</td>
+                    <td>1/11/2021</td>
+                    <td>4635736</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>3954,00</td>
+                    <td>3954,00</td>
+                    <td>22,93</td>
+                    <td>4,81</td>
+                    <td>3981,74</td>
+                </tr>
+                <tr>
+                    <td>28/10/2021 15:30:28</td>
+                    <td>1/11/2021</td>
+                    <td>4638593</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>3960,50</td>
+                    <td>3960,50</td>
+                    <td>3,17</td>
+                    <td>0,67</td>
+                    <td>3956,66</td>
+                </tr>
+                <tr>
+                    <td>29/10/2021 14:40:58</td>
+                    <td>2/11/2021</td>
+                    <td>4660804</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>63,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>108,25</td>
+                    <td>6819,75</td>
+                    <td>39,56</td>
+                    <td>8,31</td>
+                    <td>6867,62</td>
+                </tr>
+                <tr>
+                    <td>29/10/2021 16:15:55</td>
+                    <td>2/11/2021</td>
+                    <td>4665603</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>63,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>107,00</td>
+                    <td>6741,00</td>
+                    <td>5,39</td>
+                    <td>1,13</td>
+                    <td>6734,48</td>
+                </tr>
+                <tr>
+                    <td>4/11/2021 14:06:35</td>
+                    <td>8/11/2021</td>
+                    <td>4771050</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transener</td>
+                    <td>849</td>
+                    <td>TRAN</td>
+                    <td>86,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>64,30</td>
+                    <td>5529,80</td>
+                    <td>32,07</td>
+                    <td>6,74</td>
+                    <td>5568,61</td>
+                </tr>
+                <tr>
+                    <td>4/11/2021 16:00:59</td>
+                    <td>8/11/2021</td>
+                    <td>4777512</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transener</td>
+                    <td>849</td>
+                    <td>TRAN</td>
+                    <td>86,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>64,30</td>
+                    <td>5529,80</td>
+                    <td>4,42</td>
+                    <td>0,93</td>
+                    <td>5524,45</td>
+                </tr>
+                <tr>
+                    <td>5/11/2021 12:02:36</td>
+                    <td>9/11/2021</td>
+                    <td>4791963</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Sur</td>
+                    <td>617</td>
+                    <td>TGSU2</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>226,00</td>
+                    <td>904,00</td>
+                    <td>5,24</td>
+                    <td>1,10</td>
+                    <td>910,34</td>
+                </tr>
+                <tr>
+                    <td>8/11/2021 12:00:43</td>
+                    <td>10/11/2021</td>
+                    <td>4819947</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Sur</td>
+                    <td>617</td>
+                    <td>TGSU2</td>
+                    <td>4,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>235,70</td>
+                    <td>942,80</td>
+                    <td>5,46</td>
+                    <td>1,15</td>
+                    <td>936,19</td>
+                </tr>
+                <tr>
+                    <td>8/11/2021 12:01:26</td>
+                    <td>10/11/2021</td>
+                    <td>4820012</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>253,25</td>
+                    <td>253,25</td>
+                    <td>1,47</td>
+                    <td>0,31</td>
+                    <td>255,03</td>
+                </tr>
+                <tr>
+                    <td>8/11/2021 16:15:59</td>
+                    <td>10/11/2021</td>
+                    <td>4835106</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>256,00</td>
+                    <td>256,00</td>
+                    <td>0,20</td>
+                    <td>0,04</td>
+                    <td>255,76</td>
+                </tr>
+                <tr>
+                    <td>10/11/2021 12:03:11</td>
+                    <td>12/11/2021</td>
+                    <td>4879074</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Edenor</td>
+                    <td>508</td>
+                    <td>EDN</td>
+                    <td>42,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>67,80</td>
+                    <td>2847,60</td>
+                    <td>16,52</td>
+                    <td>3,47</td>
+                    <td>2867,59</td>
+                </tr>
+                <tr>
+                    <td>10/11/2021 16:22:46</td>
+                    <td>12/11/2021</td>
+                    <td>4893898</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Edenor</td>
+                    <td>508</td>
+                    <td>EDN</td>
+                    <td>42,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>67,50</td>
+                    <td>2835,00</td>
+                    <td>2,27</td>
+                    <td>0,48</td>
+                    <td>2832,25</td>
+                </tr>
+                <tr>
+                    <td>11/11/2021 16:16:10</td>
+                    <td>15/11/2021</td>
+                    <td>4922461</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>148,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>25,55</td>
+                    <td>3781,40</td>
+                    <td>21,94</td>
+                    <td>4,61</td>
+                    <td>3807,95</td>
+                </tr>
+                <tr>
+                    <td>11/11/2021 16:47:24</td>
+                    <td>15/11/2021</td>
+                    <td>4924024</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Valores S.A.</td>
+                    <td>725</td>
+                    <td>VALO</td>
+                    <td>148,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>25,45</td>
+                    <td>3766,60</td>
+                    <td>3,01</td>
+                    <td>0,63</td>
+                    <td>3762,96</td>
+                </tr>
+                <tr>
+                    <td>12/11/2021 13:07:47</td>
+                    <td>16/11/2021</td>
+                    <td>4939855</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>3925,00</td>
+                    <td>3925,00</td>
+                    <td>22,77</td>
+                    <td>4,78</td>
+                    <td>3952,55</td>
+                </tr>
+                <tr>
+                    <td>12/11/2021 16:11:59</td>
+                    <td>16/11/2021</td>
+                    <td>4949551</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>3944,50</td>
+                    <td>3944,50</td>
+                    <td>3,16</td>
+                    <td>0,66</td>
+                    <td>3940,68</td>
+                </tr>
+                <tr>
+                    <td>15/11/2021 13:17:12</td>
+                    <td>17/11/2021</td>
+                    <td>4967140</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Central Puerto Sa</td>
+                    <td>322</td>
+                    <td>CEPU</td>
+                    <td>50,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>80,60</td>
+                    <td>4030,00</td>
+                    <td>23,37</td>
+                    <td>4,91</td>
+                    <td>4058,28</td>
+                </tr>
+                <tr>
+                    <td>15/11/2021 16:35:06</td>
+                    <td>17/11/2021</td>
+                    <td>4974310</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Central Puerto Sa</td>
+                    <td>322</td>
+                    <td>CEPU</td>
+                    <td>50,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>83,00</td>
+                    <td>4150,00</td>
+                    <td>3,32</td>
+                    <td>0,70</td>
+                    <td>4145,98</td>
+                </tr>
+                <tr>
+                    <td>16/11/2021 12:17:18</td>
+                    <td>18/11/2021</td>
+                    <td>4984234</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>3,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>609,00</td>
+                    <td>1827,00</td>
+                    <td>10,60</td>
+                    <td>2,23</td>
+                    <td>1839,83</td>
+                </tr>
+                <tr>
+                    <td>16/11/2021 15:15:36</td>
+                    <td>18/11/2021</td>
+                    <td>4992965</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>3,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>597,00</td>
+                    <td>1791,00</td>
+                    <td>1,43</td>
+                    <td>0,30</td>
+                    <td>1789,27</td>
+                </tr>
+                <tr>
+                    <td>17/11/2021 15:21:18</td>
+                    <td>19/11/2021</td>
+                    <td>5013030</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>2,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>209,00</td>
+                    <td>418,00</td>
+                    <td>2,42</td>
+                    <td>0,51</td>
+                    <td>420,93</td>
+                </tr>
+                <tr>
+                    <td>17/11/2021 16:30:35</td>
+                    <td>19/11/2021</td>
+                    <td>5015845</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>2,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>212,30</td>
+                    <td>424,60</td>
+                    <td>0,34</td>
+                    <td>0,07</td>
+                    <td>424,19</td>
+                </tr>
+                <tr>
+                    <td>18/11/2021 11:23:52</td>
+                    <td>23/11/2021</td>
+                    <td>5021810</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Bbva</td>
+                    <td>94</td>
+                    <td>BBAR</td>
+                    <td>9,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>243,30</td>
+                    <td>2189,70</td>
+                    <td>12,70</td>
+                    <td>2,67</td>
+                    <td>2205,07</td>
+                </tr>
+                <tr>
+                    <td>18/11/2021 16:15:40</td>
+                    <td>23/11/2021</td>
+                    <td>5034566</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Bbva</td>
+                    <td>94</td>
+                    <td>BBAR</td>
+                    <td>9,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>245,05</td>
+                    <td>2205,45</td>
+                    <td>1,76</td>
+                    <td>0,37</td>
+                    <td>2203,32</td>
+                </tr>
+                <tr>
+                    <td>19/11/2021 13:41:31</td>
+                    <td>24/11/2021</td>
+                    <td>5047347</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Aluar</td>
+                    <td>7</td>
+                    <td>ALUA</td>
+                    <td>45,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>93,10</td>
+                    <td>4189,50</td>
+                    <td>24,30</td>
+                    <td>5,10</td>
+                    <td>4218,90</td>
+                </tr>
+                <tr>
+                    <td>19/11/2021 16:49:55</td>
+                    <td>24/11/2021</td>
+                    <td>5054950</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Aluar</td>
+                    <td>7</td>
+                    <td>ALUA</td>
+                    <td>45,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>90,70</td>
+                    <td>4081,50</td>
+                    <td>3,27</td>
+                    <td>0,69</td>
+                    <td>4077,54</td>
+                </tr>
+                <tr>
+                    <td>23/11/2021 11:49:58</td>
+                    <td>25/11/2021</td>
+                    <td>5063807</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>3880,00</td>
+                    <td>3880,00</td>
+                    <td>22,50</td>
+                    <td>4,72</td>
+                    <td>3907,22</td>
+                </tr>
+                <tr>
+                    <td>23/11/2021 14:35:34</td>
+                    <td>25/11/2021</td>
+                    <td>5072931</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Mirgor</td>
+                    <td>798</td>
+                    <td>MIRG</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>3885,00</td>
+                    <td>3885,00</td>
+                    <td>3,11</td>
+                    <td>0,65</td>
+                    <td>3881,24</td>
+                </tr>
+                <tr>
+                    <td>24/11/2021 11:49:49</td>
+                    <td>26/11/2021</td>
+                    <td>5085696</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Edenor</td>
+                    <td>508</td>
+                    <td>EDN</td>
+                    <td>75,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>60,00</td>
+                    <td>4500,00</td>
+                    <td>26,10</td>
+                    <td>5,49</td>
+                    <td>4531,59</td>
+                </tr>
+                <tr>
+                    <td>24/11/2021 16:30:31</td>
+                    <td>26/11/2021</td>
+                    <td>5095143</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Edenor</td>
+                    <td>508</td>
+                    <td>EDN</td>
+                    <td>75,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>60,90</td>
+                    <td>4567,50</td>
+                    <td>3,65</td>
+                    <td>0,77</td>
+                    <td>4563,08</td>
+                </tr>
+                <tr>
+                    <td>25/11/2021 14:37:24</td>
+                    <td>29/11/2021</td>
+                    <td>5105896</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Central Puerto Sa</td>
+                    <td>322</td>
+                    <td>CEPU</td>
+                    <td>96,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>72,50</td>
+                    <td>6960,00</td>
+                    <td>40,37</td>
+                    <td>8,48</td>
+                    <td>7008,85</td>
+                </tr>
+                <tr>
+                    <td>25/11/2021 16:54:38</td>
+                    <td>29/11/2021</td>
+                    <td>5108953</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Central Puerto Sa</td>
+                    <td>322</td>
+                    <td>CEPU</td>
+                    <td>96,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>72,20</td>
+                    <td>6931,20</td>
+                    <td>5,55</td>
+                    <td>1,16</td>
+                    <td>6924,49</td>
+                </tr>
+                <tr>
+                    <td>26/11/2021 13:03:45</td>
+                    <td>30/11/2021</td>
+                    <td>5121411</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Telecom Argentina</td>
+                    <td>807</td>
+                    <td>TECO2</td>
+                    <td>31,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>209,80</td>
+                    <td>6503,80</td>
+                    <td>37,72</td>
+                    <td>7,92</td>
+                    <td>6549,44</td>
+                </tr>
+                <tr>
+                    <td>29/11/2021 15:34:01</td>
+                    <td>1/12/2021</td>
+                    <td>5146416</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Telecom Argentina</td>
+                    <td>807</td>
+                    <td>TECO2</td>
+                    <td>31,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>207,55</td>
+                    <td>6434,05</td>
+                    <td>37,32</td>
+                    <td>7,84</td>
+                    <td>6388,89</td>
+                </tr>
+                <tr>
+                    <td>29/11/2021 15:34:32</td>
+                    <td>1/12/2021</td>
+                    <td>5146431</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>32,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>142,30</td>
+                    <td>4553,60</td>
+                    <td>26,41</td>
+                    <td>5,55</td>
+                    <td>4585,56</td>
+                </tr>
+                <tr>
+                    <td>29/11/2021 16:20:50</td>
+                    <td>1/12/2021</td>
+                    <td>5147691</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>32,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>141,70</td>
+                    <td>4534,40</td>
+                    <td>3,63</td>
+                    <td>0,76</td>
+                    <td>4530,01</td>
+                </tr>
+                <tr>
+                    <td>30/11/2021 16:05:00</td>
+                    <td>2/12/2021</td>
+                    <td>5164363</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Central Puerto Sa</td>
+                    <td>322</td>
+                    <td>CEPU</td>
+                    <td>36,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>65,30</td>
+                    <td>2350,80</td>
+                    <td>13,63</td>
+                    <td>2,86</td>
+                    <td>2367,29</td>
+                </tr>
+                <tr>
+                    <td>30/11/2021 16:45:44</td>
+                    <td>2/12/2021</td>
+                    <td>5165608</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Central Puerto Sa</td>
+                    <td>322</td>
+                    <td>CEPU</td>
+                    <td>36,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>66,50</td>
+                    <td>2394,00</td>
+                    <td>1,92</td>
+                    <td>0,40</td>
+                    <td>2391,68</td>
+                </tr>
+                <tr>
+                    <td>1/12/2021 14:08:25</td>
+                    <td>3/12/2021</td>
+                    <td>5180283</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>67,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>88,25</td>
+                    <td>5912,75</td>
+                    <td>34,29</td>
+                    <td>7,20</td>
+                    <td>5954,24</td>
+                </tr>
+                <tr>
+                    <td>1/12/2021 16:00:47</td>
+                    <td>3/12/2021</td>
+                    <td>5184872</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Supervielle S.A.</td>
+                    <td>30035</td>
+                    <td>SUPV</td>
+                    <td>67,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>86,09</td>
+                    <td>5767,70</td>
+                    <td>4,61</td>
+                    <td>0,97</td>
+                    <td>5762,12</td>
+                </tr>
+                <tr>
+                    <td>2/12/2021 13:48:52</td>
+                    <td>6/12/2021</td>
+                    <td>5200726</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Bolsas Y Mercados Argentinos S.A.</td>
+                    <td>30038</td>
+                    <td>BYMA</td>
+                    <td>2,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>999,00</td>
+                    <td>1998,00</td>
+                    <td>11,59</td>
+                    <td>2,44</td>
+                    <td>2012,03</td>
+                </tr>
+                <tr>
+                    <td>2/12/2021 16:46:05</td>
+                    <td>6/12/2021</td>
+                    <td>5207078</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Bolsas Y Mercados Argentinos S.A.</td>
+                    <td>30038</td>
+                    <td>BYMA</td>
+                    <td>2,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>1050,00</td>
+                    <td>2100,00</td>
+                    <td>1,68</td>
+                    <td>0,35</td>
+                    <td>2097,97</td>
+                </tr>
+                <tr>
+                    <td>3/12/2021 16:35:52</td>
+                    <td>7/12/2021</td>
+                    <td>5227092</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>20,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>101,50</td>
+                    <td>2030,00</td>
+                    <td>11,77</td>
+                    <td>2,47</td>
+                    <td>2044,24</td>
+                </tr>
+                <tr>
+                    <td>3/12/2021 16:51:16</td>
+                    <td>7/12/2021</td>
+                    <td>5227622</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cresud</td>
+                    <td>274</td>
+                    <td>CRES</td>
+                    <td>20,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>100,78</td>
+                    <td>2015,60</td>
+                    <td>1,61</td>
+                    <td>0,34</td>
+                    <td>2013,65</td>
+                </tr>
+                <tr>
+                    <td>6/12/2021 12:48:16</td>
+                    <td>9/12/2021</td>
+                    <td>5238420</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Norte</td>
+                    <td>30005</td>
+                    <td>TGNO4</td>
+                    <td>11,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>98,60</td>
+                    <td>1084,60</td>
+                    <td>6,29</td>
+                    <td>1,32</td>
+                    <td>1092,21</td>
+                </tr>
+                <tr>
+                    <td>6/12/2021 15:35:58</td>
+                    <td>9/12/2021</td>
+                    <td>5244913</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Norte</td>
+                    <td>30005</td>
+                    <td>TGNO4</td>
+                    <td>11,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>100,50</td>
+                    <td>1105,50</td>
+                    <td>0,88</td>
+                    <td>0,19</td>
+                    <td>1104,43</td>
+                </tr>
+                <tr>
+                    <td>9/12/2021 11:58:56</td>
+                    <td>13/12/2021</td>
+                    <td>5277846</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>1043,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>5,95</td>
+                    <td>6205,85</td>
+                    <td>35,99</td>
+                    <td>7,56</td>
+                    <td>6249,40</td>
+                </tr>
+                <tr>
+                    <td>9/12/2021 15:22:41</td>
+                    <td>13/12/2021</td>
+                    <td>5285004</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Sociedad Comercial del Plata</td>
+                    <td>251</td>
+                    <td>COME</td>
+                    <td>1043,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>5,95</td>
+                    <td>6205,85</td>
+                    <td>4,96</td>
+                    <td>1,04</td>
+                    <td>6199,85</td>
+                </tr>
+                <tr>
+                    <td>10/12/2021 13:44:09</td>
+                    <td>14/12/2021</td>
+                    <td>5299266</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>10,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>536,00</td>
+                    <td>5360,00</td>
+                    <td>31,09</td>
+                    <td>6,53</td>
+                    <td>5397,62</td>
+                </tr>
+                <tr>
+                    <td>13/12/2021 11:38:09</td>
+                    <td>15/12/2021</td>
+                    <td>5309651</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Cablevisi&#243;n Holding S.A.</td>
+                    <td>30042</td>
+                    <td>CVH</td>
+                    <td>10,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>517,00</td>
+                    <td>5170,00</td>
+                    <td>29,99</td>
+                    <td>6,30</td>
+                    <td>5133,71</td>
+                </tr>
+                <tr>
+                    <td>13/12/2021 11:38:30</td>
+                    <td>15/12/2021</td>
+                    <td>5309678</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Bbva</td>
+                    <td>94</td>
+                    <td>BBAR</td>
+                    <td>19,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>215,00</td>
+                    <td>4085,00</td>
+                    <td>23,70</td>
+                    <td>4,98</td>
+                    <td>4113,68</td>
+                </tr>
+                <tr>
+                    <td>14/12/2021 12:44:06</td>
+                    <td>16/12/2021</td>
+                    <td>5329969</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Bbva</td>
+                    <td>94</td>
+                    <td>BBAR</td>
+                    <td>19,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>204,80</td>
+                    <td>3891,20</td>
+                    <td>22,57</td>
+                    <td>4,74</td>
+                    <td>3863,89</td>
+                </tr>
+                <tr>
+                    <td>14/12/2021 12:48:05</td>
+                    <td>16/12/2021</td>
+                    <td>5330087</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Norte</td>
+                    <td>30005</td>
+                    <td>TGNO4</td>
+                    <td>6,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>91,70</td>
+                    <td>550,20</td>
+                    <td>3,19</td>
+                    <td>0,67</td>
+                    <td>554,06</td>
+                </tr>
+                <tr>
+                    <td>14/12/2021 13:23:24</td>
+                    <td>16/12/2021</td>
+                    <td>5331032</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Transportadora Gas del Norte</td>
+                    <td>30005</td>
+                    <td>TGNO4</td>
+                    <td>6,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>92,10</td>
+                    <td>552,60</td>
+                    <td>0,44</td>
+                    <td>0,09</td>
+                    <td>552,07</td>
+                </tr>
+                <tr>
+                    <td>16/12/2021 11:30:27</td>
+                    <td>20/12/2021</td>
+                    <td>5354988</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>26,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>127,00</td>
+                    <td>3302,00</td>
+                    <td>19,15</td>
+                    <td>4,02</td>
+                    <td>3325,17</td>
+                </tr>
+                <tr>
+                    <td>16/12/2021 12:13:03</td>
+                    <td>20/12/2021</td>
+                    <td>5357105</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Ternium Argentina Sa</td>
+                    <td>839</td>
+                    <td>TXAR</td>
+                    <td>26,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>127,00</td>
+                    <td>3302,00</td>
+                    <td>2,64</td>
+                    <td>0,55</td>
+                    <td>3298,81</td>
+                </tr>
+                <tr>
+                    <td>21/12/2021 14:34:03</td>
+                    <td>23/12/2021</td>
+                    <td>5406156</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>201,50</td>
+                    <td>201,50</td>
+                    <td>1,17</td>
+                    <td>0,24</td>
+                    <td>202,91</td>
+                </tr>
+                <tr>
+                    <td>21/12/2021 16:00:25</td>
+                    <td>23/12/2021</td>
+                    <td>5408667</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Grupo Financiero Galicia S.A</td>
+                    <td>534</td>
+                    <td>GGAL</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>200,50</td>
+                    <td>200,50</td>
+                    <td>0,16</td>
+                    <td>0,03</td>
+                    <td>200,31</td>
+                </tr>
+                <tr>
+                    <td>22/12/2021 11:14:49</td>
+                    <td>27/12/2021</td>
+                    <td>5414239</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>166,95</td>
+                    <td>166,95</td>
+                    <td>0,96</td>
+                    <td>0,20</td>
+                    <td>168,11</td>
+                </tr>
+                <tr>
+                    <td>22/12/2021 14:45:44</td>
+                    <td>27/12/2021</td>
+                    <td>5421069</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Pampa Energ&#237;a</td>
+                    <td>457</td>
+                    <td>PAMP</td>
+                    <td>1,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>162,65</td>
+                    <td>162,65</td>
+                    <td>0,13</td>
+                    <td>0,03</td>
+                    <td>162,49</td>
+                </tr>
+                <tr>
+                    <td>23/12/2021 14:13:26</td>
+                    <td>28/12/2021</td>
+                    <td>5434259</td>
+                    <td>BCBA</td>
+                    <td>Compra</td>
+                    <td>123879</td>
+                    <td>Aluar</td>
+                    <td>7</td>
+                    <td>ALUA</td>
+                    <td>52,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>93,00</td>
+                    <td>4836,00</td>
+                    <td>28,05</td>
+                    <td>5,89</td>
+                    <td>4869,94</td>
+                </tr>
+                <tr>
+                    <td>23/12/2021 15:15:29</td>
+                    <td>28/12/2021</td>
+                    <td>5436056</td>
+                    <td>BCBA</td>
+                    <td>Venta</td>
+                    <td>123879</td>
+                    <td>Aluar</td>
+                    <td>7</td>
+                    <td>ALUA</td>
+                    <td>52,0000</td>
+                    <td style="text-align: center">AR$</td>
+                    <td>92,80</td>
+                    <td>4825,80</td>
+                    <td>3,86</td>
+                    <td>0,81</td>
+                    <td>4821,13</td>
+                </tr>
+    </table>
+
+
+
+
+</body>
+</html>

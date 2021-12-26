@@ -1,0 +1,88 @@
+<html>
+    <title>Argyando</title>
+    <head>
+        <link rel="stylesheet" href="./static/landing.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=Playfair+Display:wght@400;500&family=Roboto:wght@300;400;500;700&family=Spline+Sans:wght@300;400&display=swap" rel="stylesheet">
+        <link rel="icon" href="https://img.icons8.com/ios-filled/50/000000/candle-sticks.png">
+        <script src="./static/scripts.js" defer></script>
+    </head>
+    <body>
+        <header>
+            <a class="navLink" href="https://yagopajarino.github.io/argyando-landing" id="logoText">ARGYANDO</a>
+            <nav id="contenidos">            
+                <a class="navLink" href="#about">About</a>
+                <a class="navLink" href="#twitter">Twitter</a>
+                <a class="navLink" href="#stats">Estadísticas</a>
+            </nav>    
+        </header>
+        <main>
+            <section id="titleSection">
+                <div id="titleText">
+                    <h1 id="title">Argyando</h1>
+                    <p id="titleP"><i>"Nada hay menos material que el dinero, ya que cualquier moneda (una moneda de veinte centavos, digamos) es, en rigor, un repertorio de futuros posibles."</i> - Jorge Luis Borges</p>    
+                </div>
+                <div>
+                    <img src="./static/stonks.png" alt="stonks.png" height="250px">
+                </div>
+            </section>
+            <section id="about">
+                <h2 class="sectionTitle">About</h2>
+                <p>Imagine que ponemos un bot, un autómata, a realizar compra y venta de acciones al azar durante un periodo de tiempo ¿que pasaría? desde luego pueden pasar dos cosas, ganar dinero o perderlo.</p>
+                <p>Argyando nace como respuesta a esta pregunta, generando transacciones de forma aleatoria en el mercado de acciones lider de la Bolsa de Comercio de Buenos Aires.</p>
+                <h3>Rutina</h3>
+                <p>Algoritmo que utiliza el bot para generar las operaciones. Solo se realiza operación de compra/venta intradiaria.</p>
+                <h4>Previo a apertura de mercado</h4>
+                <ol>
+                    <li>Seleccionar un ticker al azar del panel lider. <a class="linkBlue" href="https://bolsar.info/lideres.php">Acciones líderes</a></li>
+                    <li>Determinar al azar el monto de compra.</li>
+                    <li>Seleccionar un horario dentro de la rueda (11:00 - 17:00) para enviar la orden de compra (horaCompra).</li>
+                    <li>Seleccionar un horario previo al cierre (horaCompra - 17:00) para enviar la orden de venta (horaVenta).</li>
+                </ol>
+
+                <h4>En horaCompra:</h4>
+                <ol>
+                    <li>Determinar cantidad de compra con el último precio operado.</li>
+                    <li>Enviar orden de compra.</li>
+                    <li>Publicar tweet</li>
+                </ol>
+
+                <h4>En horaVenta:</h4>
+                <ol>
+                    <li>Enviar orden de venta tomando el precio de punta compradora por el total de la posición.</li>
+                    <li>Publicar tweet</li>
+                </ol>
+            <section id="twitter">
+                <h2 class="sectionTitle">Twitter</h2>
+                <p>Con cada orden de compra u orden de venta se publica un tweet en <a class="linkBlue" target="_blank" href="https://twitter.com/argyando1">@argyando1</a>.</p>
+                <a class="twitter-timeline" data-width="50%" data-height="400" data-theme="dark" href="https://twitter.com/argyando1?ref_src=twsrc%5Etfw">Tweets by argyando1</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>            
+            </section>
+            <section id="stats">
+                <h2 class="sectionTitle">Estadísticas</h2>
+                <div class="tilesContainer">
+                    <div class="statsTile">
+                        <h1 class="tileHeader">Comitentes fundidas</h1>
+                        <span class="tileText">0</span>
+                    </div>
+                    <div class="statsTile">
+                        <h1 class="tileHeader">Monto inicial</h1>
+                        <span class="tileText">ARS 10.000</span>
+                    </div>
+                    <div class="statsTile">
+                        <h1 class="tileHeader">Operado</h1>
+                        <span class="tileText" id="operado">TODO</span>
+                    </div>
+                    <div class="statsTile">
+                        <h1 class="tileHeader">Operaciones</h1>
+                        <span class="tileText" id="operaciones">TODO</span>
+                    </div>
+                    <div class="statsTile" style="width: 100%;">
+                        <h1 class="tileHeader">Monto actual</h1>
+                        <span class="tileText" id="montoActual">TODO</span>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </body>
+</html>
