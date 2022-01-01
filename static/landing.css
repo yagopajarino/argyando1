@@ -148,10 +148,8 @@ footer {
 }
 
 #plotTorta {
-    min-height: 396px;
-    min-width: 510px;
-    width: 63%;
-    height: 380px;
+    height: 396px;
+    width: 510px;
     padding: 5px 0 15px 0;
 }
 
