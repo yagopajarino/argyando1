@@ -147,3 +147,34 @@ footer {
     padding: 20px 0;
 }
 
+#plotTorta {
+    min-height: 396px;
+    min-width: 510px;
+    width: 63%;
+    height: 380px;
+    padding: 5px 0 15px 0;
+}
+
+.statsTileCol {
+    min-height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    background-color: #4c4c4c73;
+    margin: 10px;
+}
+
+.tortaLines {
+    display: flex;
+    flex-direction: column;
+    width: 59%;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+
+.lineCont {
+    display: flex;
+    justify-content: space-around;
+}
+
