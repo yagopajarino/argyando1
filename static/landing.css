@@ -163,6 +163,7 @@ footer {
     border-radius: 10px;
     background-color: #4c4c4c73;
     margin: 10px;
+    flex-wrap: wrap;
 }
 
 .tortaLines {
