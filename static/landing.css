@@ -128,3 +128,17 @@ li {
     background-color: #4c4c4c73;
     margin: 10px;
 }
+
+#gh_logo {
+    margin: 0 0 0 5px;
+    background-color: rgb(182, 182, 182);
+    border-radius: 50%;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    justify-content: center;
+}
+
